@@ -1,1 +1,1 @@
-# dank_physics
+# dank-physics
